@@ -1,9 +1,9 @@
 ## Hi, my name is Ildus and I'm a Data Scientists   :house::dollar:
 
-#### Once I became interested in Data Science and no one saw me more :man_scientist:
+### Once I became interested in Data Science and no one saw me more :man_scientist:
 
-##### Physicist-engineer of low temperatures by education. :snowflake::snowman::snowflake:
-##### Big technical background :man_scientist:
+#### Physicist-engineer of low temperatures by education. :snowflake::snowman::snowflake:
+#### Big technical background :man_scientist:
 
 
 
