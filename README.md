@@ -1,8 +1,4 @@
-## Hi, my name is Ildus and I'm a Data Scientists   :house::dollar:
-#### Big technical background :man_scientist:
-
-
-
+## Hi, my name is Ildus and I'm a Data Scientists 
 
 ### 🔭Contact me:
 
